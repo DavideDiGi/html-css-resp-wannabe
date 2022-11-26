@@ -152,6 +152,21 @@ img {
     .col.col-right>ul>li:first-child{
         margin-top: 50px;
     }
+    /********** AGGIUNTA SFONDO NERO ***********/
+    body{
+        background-color: black;
+    }
+    header.site-header{
+        background: #232946;
+        margin-top: 0px;
+        padding-top: 50px;
+    }
+    section.lessons.text-center{
+        background: #232946;
+        margin-top: -50px;
+        padding-top: 50px;
+        margin-bottom: -50px;
+    }
  }
 
  /********** BONUS ***********/
